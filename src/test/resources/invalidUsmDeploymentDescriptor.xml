@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:application xmlns:ns2="deployment.domain.administration.usm.mare.ec.europa.eu">
+<ns2:application xmlns:ns2="deployment.domain.administration.usm.focus.fish">
     <name>TEST_APP</name>
     <description>Deployment descriptor of module TEST_APP.</description>
     <parent>Union VMS</parent>
