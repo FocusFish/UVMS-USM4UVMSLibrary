@@ -29,7 +29,7 @@
 		<user.service.version>2.2.6</user.service.version>
 		<usm.JWTokenHandler.version>2.2.14</usm.JWTokenHandler.version>
 		<uvms.commons.version>4.1.12</uvms.commons.version>
-		<uvms.pom.version>3.18</uvms.pom.version>
+		<uvms.pom.version>3.19</uvms.pom.version>
 	</properties>
 
 	<dependencyManagement>
