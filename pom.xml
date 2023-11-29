@@ -4,13 +4,13 @@
 	<parent>
 		<groupId>fish.focus.uvms.maven</groupId>
 		<artifactId>uvms-pom</artifactId>
-		<version>3.16</version>
+		<version>3.19</version>
 	</parent>
 
 	<groupId>fish.focus.uvms.lib</groupId>
 	<artifactId>usm4uvms</artifactId>
 	<packaging>jar</packaging>
-	<version>4.1.11</version>
+	<version>4.1.12</version>
 	<name>usm4uvms</name>
 	<description>USM integration for UnionVMS.</description>
 
@@ -26,10 +26,10 @@
 		<arquillian.rest.version>1.0.0.Alpha4</arquillian.rest.version>
 		<resteasy.version>3.0.12.Final</resteasy.version>
 
-		<user.service.version>2.2.5</user.service.version>
-		<usm.JWTokenHandler.version>2.2.13</usm.JWTokenHandler.version>
+		<user.service.version>2.2.6</user.service.version>
+		<usm.JWTokenHandler.version>2.2.14</usm.JWTokenHandler.version>
 		<uvms.commons.version>4.1.12</uvms.commons.version>
-		<uvms.pom.version>3.16</uvms.pom.version>
+		<uvms.pom.version>3.19</uvms.pom.version>
 	</properties>
 
 	<dependencyManagement>
