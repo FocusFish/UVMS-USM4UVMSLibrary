@@ -24,7 +24,7 @@
 		<scm.url>scm:git:https://github.com/FocusFish/UVMS-USM4UVMSLibrary.git</scm.url>
 
 		<arquillian.rest.version>1.0.0.Alpha4</arquillian.rest.version>
-		<resteasy.version>3.0.12.Final</resteasy.version>
+		<resteasy.version>5.0.9.Final</resteasy.version>
 
 		<user.service.version>2.2.6</user.service.version>
 		<usm.JWTokenHandler.version>2.2.14</usm.JWTokenHandler.version>
@@ -97,12 +97,6 @@
 			<artifactId>arquillian-rest-client-api</artifactId>
 			<version>${arquillian.rest.version}</version>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.jboss.resteasy</groupId>
-			<artifactId>jaxrs-api</artifactId>
-			<scope>test</scope>
-			<version>${resteasy.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.resteasy</groupId>
